@@ -1,3 +1,8 @@
+  
+  
+  Descoberta de host ao vivo do Nmap
+
+
 Quando queremos segmentar uma rede, queremos encontrar uma ferramenta eficiente para nos ajudar a lidar com tarefas repetitivas e responder às seguintes perguntas:
 
 1- Quais sistemas estão ativos?
