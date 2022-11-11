@@ -1,0 +1,22 @@
+# FakeBank
+
+﻿﻿﻿Antes de entrar nas carreiras de segurança cibernética e o que é segurança ofensiva, vamos hackear (e sim, é  legal,  todos os exercícios são simulações falsas)
+
+Seu primeiro hack
+
+Clique no botão "Iniciar máquina". Uma vez carregado no Split View no seu navegador, você terá acesso a uma máquina que usará para hackear um aplicativo bancário falso chamado FakeBank. Se você não vir a máquina aparecer, use o botão azul Mostrar visualização dividida no canto superior direito desta página.
+
+Usaremos um aplicativo de linha de comando chamado "GoBuster" para forçar o site do FakeBank a encontrar diretórios e páginas ocultos. O GoBuster fará uma lista de possíveis nomes de páginas ou diretórios e tentará acessar um site com cada um deles; se a página existir, ela informa.
+
+Etapa 1) Abra um terminal
+
+Um terminal, também conhecido como linha de comando, nos permite interagir com um computador sem usar uma interface gráfica de usuário. Na máquina, abra o terminal usando o ícone Terminal:  
+
+Preso? Ver vídeo
+
+
+Etapa 2) Encontre páginas ocultas do site
+
+A maioria das empresas terá uma página de portal de administração, dando à sua equipe acesso a controles administrativos básicos para operações do dia-a-dia. Para um banco, um funcionário pode precisar transferir dinheiro de e para contas de clientes. Muitas vezes, essas páginas não são privadas, permitindo que os invasores encontrem páginas ocultas que mostram ou dão acesso a controles administrativos ou dados confidenciais.
+
+Digite o seguinte comando no terminal para encontrar páginas potencialmente ocultas no site do FakeBank usando o GoBuster (um aplicativo de segurança de linha de comando).
