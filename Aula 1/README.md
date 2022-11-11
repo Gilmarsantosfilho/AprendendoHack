@@ -18,10 +18,16 @@ Etapa 2) Encontre páginas ocultas do site
 A maioria das empresas terá uma página de portal de administração, dando à sua equipe acesso a controles administrativos básicos para operações do dia-a-dia. Para um banco, um funcionário pode precisar transferir dinheiro de e para contas de clientes. Muitas vezes, essas páginas não são privadas, permitindo que os invasores encontrem páginas ocultas que mostram ou dão acesso a controles administrativos ou dados confidenciais.
 
 Digite o seguinte comando no terminal para encontrar páginas potencialmente ocultas no site do FakeBank usando o GoBuster (um aplicativo de segurança de linha de comando).
--------------------
+
 
 Comando GoBuster para páginas de sites de força bruta
-ubuntu@tryhackme:~/Desktop$ gobuster -u http://fakebank.com -w wordlist.txt dir  =====================================================
+
+
+gobuster -u http://fakebank.com -w wordlist.txt dir  
+
+
+```
+=====================================================
 Gobuster v2.0.1
 =====================================================
 [+] Mode         : dir
@@ -34,12 +40,15 @@ Gobuster v2.0.1
 2022/04/11 18:23:28 Starting gobuster
 =====================================================
 /images (Status: 301)
-/DIRECTORY_NAME_OUTPUT (Status: 200)
+/bank-transferer (Status: 200)
 =====================================================
 2022/04/11 18:23:38 Finished
 =====================================================
 
-No comando acima, -ué usado para indicar o site que estamos verificando, -wleva uma lista de palavras para iterar para encontrar páginas ocultas.
+```
+
+
+No comando acima, -w usado para indicar o site que estamos verificando, -dir uma lista de palavras para iterar para encontrar páginas ocultas.
 
 Você verá que o GoBuster verifica o site com cada palavra da lista, encontrando as páginas que existem no site. O GoBuster terá informado as páginas encontradas na lista de nomes de páginas/diretórios (indicados por Status: 200).
 
