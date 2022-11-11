@@ -1,4 +1,6 @@
-O objetivo deste caminho é ensiná-lo a atacar aplicativos da web. Para atacar e explorar aplicativos da Web com sucesso, você precisa entender como eles funcionam. A primeira seção (Fundamentos da Web) fornecerá todo o conhecimento pré-requisito sobre isso. 
+<h3><p align="center">Fundamentos da Webs:</p></h3> 
+
+<h3><p align="center">O objetivo deste caminho é ensiná-lo a atacar aplicativos da web. Para atacar e explorar aplicativos da Web com sucesso, você precisa entender como eles funcionam. A primeira seção (Fundamentos da Web) fornecerá todo o conhecimento pré-requisito sobre isso. 
 
 A segunda seção (Ferramentas de segurança) se concentra em aprender como usar as ferramentas padrão do setor para interagir com seus alvos. 
 
@@ -13,8 +15,7 @@ utilizar ferramentas padrão da indústria ao atacar aplicativos da web
 explicar e explorar vulnerabilidades comuns da web
 aplicar esse conhecimento a outros alvos (seja em uma entrevista ou em uma avaliação profissional de segurança de aplicativos da Web)
 Pré-requisitos
-Você precisa de uma compreensão básica de como os aplicativos da Web funcionam para concluir esse caminho. Se você ainda não tiver esses pré-requisitos, conclua o Caminho de pré-segurança .
-
+Você precisa de uma compreensão básica de como os aplicativos da Web funcionam para concluir esse caminho. Se você ainda não tiver esses pré-requisitos, conclua o Caminho de pré-segurança .</p></h3>
 
 --------------------------------
 
