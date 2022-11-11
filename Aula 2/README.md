@@ -2,21 +2,24 @@
 
 # O objetivo deste caminho é ensiná-lo a atacar aplicativos da web. Para atacar e explorar aplicativos da Web com sucesso, você precisa entender como eles funcionam. A primeira seção (Fundamentos da Web) fornecerá todo o conhecimento pré-requisito sobre isso. 
 
-# A segunda seção (Ferramentas de segurança) se concentra em aprender como usar as ferramentas padrão do setor para interagir com seus alvos. 
+ A segunda seção (Ferramentas de segurança) se concentra em aprender como usar as ferramentas padrão do setor para interagir com seus alvos. 
 
-# A terceira seção (Vulnerabilidades) abrange várias vulnerabilidades encontradas em aplicativos da web hoje. Esta seção abordará as causas principais dessas vulnerabilidades e fornecerá experiência prática em explorá-las.
+ A terceira seção (Vulnerabilidades) abrange várias vulnerabilidades encontradas em aplicativos da web hoje. Esta seção abordará as causas principais dessas vulnerabilidades e fornecerá experiência prática em explorá-las.
 
-# A seção final (A prática leva à perfeição) o ajudará a aplicar o que aprendeu nas seções anteriores.
+A seção final (A prática leva à perfeição) o ajudará a aplicar o que aprendeu nas seções anteriores.
 
-# Depois de concluir este caminho, você deve ser capaz de:
+ Depois de concluir este caminho, você deve ser capaz de:
+
+ ============================================
 
 
-# entender como os aplicativos da web funcionam
- # utilizar ferramentas padrão da indústria ao atacar aplicativos da web
-# explicar e explorar vulnerabilidades comuns da web
-# aplicar esse conhecimento a outros alvos (seja em uma entrevista ou em uma avaliação profissional de segurança de aplicativos da Web)
-# Pré-requisitos
-# Você precisa de uma compreensão básica de como os aplicativos da Web funcionam para concluir esse caminho. Se você ainda não tiver esses pré-requisitos, conclua o #Caminho de pré-segurança
+entender como os aplicativos da web funcionam
+  utilizar ferramentas padrão da indústria ao atacar aplicativos da web
+ explicar e explorar vulnerabilidades comuns da web
+ aplicar esse conhecimento a outros alvos (seja em uma entrevista ou em uma avaliação profissional de segurança de aplicativos da Web)
+ Pré-requisitos
+ Você precisa de uma compreensão básica de como os aplicativos da Web funcionam para concluir esse caminho. Se você ainda não tiver esses pré-requisitos, conclua o Caminho de pré-segurança
+ ============================================
 
 <h3><p align="center"> DNS em detalhes </p></h3>
 
