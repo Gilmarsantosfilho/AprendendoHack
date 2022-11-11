@@ -1,6 +1,7 @@
-# FakeBank
+                            <h3><p align="center">Fake Bank:</p></h3> 
 
-﻿﻿﻿Antes de entrar nas carreiras de segurança cibernética e o que é segurança ofensiva, vamos hackear (e sim, é  legal,  todos os exercícios são simulações falsas)
+
+<h3><p align="center">Antes de entrar nas carreiras de segurança cibernética e o que é segurança ofensiva, vamos hackear (e sim, é  legal,  todos os exercícios são simulações falsas </p></h3>
 
 Seu primeiro hack
 
@@ -11,9 +12,6 @@ Usaremos um aplicativo de linha de comando chamado "GoBuster" para forçar o sit
 Etapa 1) Abra um terminal
 
 Um terminal, também conhecido como linha de comando, nos permite interagir com um computador sem usar uma interface gráfica de usuário. Na máquina, abra o terminal usando o ícone Terminal:  
-
-Preso? Ver vídeo
-
 
 Etapa 2) Encontre páginas ocultas do site
 
@@ -55,13 +53,17 @@ Esta página permite que um invasor roube dinheiro de qualquer conta bancária, 
 
 Transfira $ 2000 da conta bancária 2276 para sua conta (conta número 8881).
 
-Responda as questões abaixo
-Depois de transferir dinheiro para sua conta, volte para a página da sua conta bancária. Qual é a resposta mostrada na sua página de saldo bancário?
+
+                            <h3><p align="center">Agora é a reposta:</p></h3> 
+   
+ Responda as questões abaixo
+ 
+After transferring money to your account, go back to your bank account page. What is the answer shown on your bank balance page?
 Responsta: BANK-HACKED
 
 -----------------------------------------------------------
+Agora essa você tem que ler para depois "Submit" 
 
-Depois! apenas ler e só confirmar no botão verde
-
-
-Responsta: BANK-HACKED
+```
+Agora Aula 2
+```
