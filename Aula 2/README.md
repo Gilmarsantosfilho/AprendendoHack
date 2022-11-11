@@ -10,14 +10,13 @@
 
 # Depois de concluir este caminho, você deve ser capaz de:
 
-======================================================
+
 # entender como os aplicativos da web funcionam
  # utilizar ferramentas padrão da indústria ao atacar aplicativos da web
 # explicar e explorar vulnerabilidades comuns da web
 # aplicar esse conhecimento a outros alvos (seja em uma entrevista ou em uma avaliação profissional de segurança de aplicativos da Web)
 # Pré-requisitos
 # Você precisa de uma compreensão básica de como os aplicativos da Web funcionam para concluir esse caminho. Se você ainda não tiver esses pré-requisitos, conclua o #Caminho de pré-segurança
-======================================================
 
 <h3><p align="center"> DNS em detalhes </p></h3>
 
